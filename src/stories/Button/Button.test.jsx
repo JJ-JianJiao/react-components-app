@@ -21,5 +21,5 @@ test("should render Primary Button", ()=>{
 test("should render Red Button", ()=>{
     render(<RedButton {...RedButton.args} />);
     const redBtnEle = screen.getByRole('button');
-    expect(redBtnEle).toHaveStyle('background-color:red');
+    expect(redBtnEle).toHaveStyle('background-color: #e59a9a');
 })
