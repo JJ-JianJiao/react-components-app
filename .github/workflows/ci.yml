@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-lastest
 
     strategy:
-      matrix:
-        node-version:[14.x]
+        matrix:
+          node-version: [14.x]
 
     # Job steps
     steps:
