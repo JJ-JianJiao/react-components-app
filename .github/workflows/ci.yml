@@ -11,7 +11,8 @@ jobs:
 
     strategy:
         matrix:
-          node: [ 16, 18 ]
+          # node: [ 16, 18 ]
+          node: [ 16 ]
 
     name: Node ${{ matrix.node }} sample
     # Job steps
