@@ -1,4 +1,5 @@
 [![CI](https://github.com/JJ-JianJiao/react-components-app/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/JJ-JianJiao/react-components-app/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/github/JJ-JianJiao/react-components-app/graph/badge.svg?token=PY98PVJTDZ)](https://codecov.io/github/JJ-JianJiao/react-components-app)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
